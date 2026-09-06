@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**komal-cloud07/komal-cloud07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BCA student
+## Skills
+- python
+- Linux
+- Git & GitHub
+- Bash Scripting
+- Cloud Computing
+- ## Projects
+- linux System Information Script
+- File Backup Automation
+- Student Management System
+- ## Career Goal
+- I'm Learning programming, Linux and cloud technologies to build my skills and prepare for internship and future opportunities.
+  
